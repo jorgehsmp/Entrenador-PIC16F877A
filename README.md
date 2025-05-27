@@ -13,11 +13,11 @@ Diseñar y aplicar una placa entrenadora que facilite el uso del microcontrolado
   - Diseño de la PCB  
   - Archivos Gerber para fabricación
 
-- `/firmware`  
-  - Ejemplos de código en C para MPLAB XC8  
+- `/firmware (futuro)`  
+  - Ejemplos de código en ensamblador para MPLAB XC8  
   - Prácticas de uso con periféricos: LCD, PWM, ADC, botones, etc.
 
-- `/documentación`  
+- `/documentación (futuro)`  
   - Manual del usuario  
   - Guía de conexión  
   - Propuestas de prácticas para el aula  
