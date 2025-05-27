@@ -9,7 +9,7 @@ Diseñar y aplicar una placa entrenadora que facilite el uso del microcontrolado
 ## 📦 Contenido del repositorio
 
 - `/hardware`  
-  - Esquemático en formato KiCad y PDF  
+  - Esquemático en formato Altium Designer y PDF  
   - Diseño de la PCB  
   - Archivos Gerber para fabricación
 
